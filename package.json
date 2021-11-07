@@ -1,0 +1,9 @@
+{
+  "name": "projeto-final-m4u",
+  "version": "1.0.0",
+  "description": "sistema de cadastro",
+  "main": "index.js",
+  "repository": "https://github.com/EvelynGalvao/projeto-final.git",
+  "author": "Evelyn",
+  "license": "MIT"
+}
