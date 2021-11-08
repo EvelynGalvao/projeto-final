@@ -1,10 +1,11 @@
 import express from 'express';
 
+import routes from './routes';
+
 const app = express();
 
 app.listen(3003,() =>console.log("servidor inicializado na porta 3003"));
 
-app.get("/", (request, response) => {
-    return response.json({mensagem:"bem-vindos ao projeto inicial", ano:2021});
+
 
 });
